@@ -1,0 +1,8 @@
+#Dev
+# Add any libraries that must first be installed (Ex: pyperclip or pygame)
+# pyperclip
+requests==2.19.1
+pytemperature==1.0
+
+
+
